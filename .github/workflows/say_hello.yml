@@ -1,4 +1,4 @@
-name: show-directory
+name: say_hello
 on: push
 jobs:
   build:
